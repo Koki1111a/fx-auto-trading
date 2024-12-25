@@ -56,8 +56,8 @@ class FXtrading:
 
             # MT5でブローカーにログイン
             authorized = mt5.login(
-                75104589,
-                password='*VYLG(4O55FM7h2',
+                01234567,
+                password='password',
                 server='XMTrading-MT5 3',
             )
 
